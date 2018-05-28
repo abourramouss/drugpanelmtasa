@@ -1,0 +1,10 @@
+<meta>
+<info author="Cuboy" title="sistema-drogasv1" type="script" version="1.0" />
+
+	<script src="panel_c.lua" type="client" />
+	<script src="panel_s.lua" type="server" />
+
+
+    <file src="Sports-Running-Man-icon.png" /> 
+
+</meta>
